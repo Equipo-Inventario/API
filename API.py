@@ -5,6 +5,7 @@ import pika
 from flask_cors import CORS, cross_origin
 import json
 
+
 stock_actual = 100
 
 def create_app():
